@@ -7,10 +7,10 @@ export default function Home() {
     <div className="mx-auto w-full max-w-7xl">
       <aside className=" relative overflow-hidden text-black rounded-lg sm:mx-16 mx-2 sm:py-16">
         <div className="relative z-10 max-w-screen-xl px-4  pb-20 pt-10 sm:py-16 mx-auto sm:px-6 lg:px-8  mr-16 ml-16">
-          <div className=" max-w-xl sm:mt-1 mt-80 space-y-8 text-center sm:text-right sm:ml-auto">
-            <h2 className="text-4xl font-bold sm:text-5xl mr-4 text-white">
+          <div className=" max-w-xl  sm:mt-1 mt-80 space-y-8 text-center sm:text-right sm:ml-auto ">
+            <h2 className="text-4xl font-bold sm:text-5xl mr-4 lg:text-black sm:text-white">
               Download Now
-              <span className="hidden sm:block text-4xl">For easy booking</span>
+              <span className="hidden sm:block text-4xl ">For easy booking</span>
             </h2>
 
             <Link
